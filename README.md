@@ -62,7 +62,7 @@ Predictive Maintenance (PdM) brings intelligence to industrial and IoT systems b
 These applications often use **vibration, current, and acoustic signals** as inputs.
 
 Example use cases:
-- **[Fan Condition Monitoring](https://github.com/MicrochipTech/ml-Coffee-Powder-Brand-Classification-GasSensor)** – identifying early signs of mechanical stress.  
+- **[Fan Condition Monitoring](https://www.microchip.com/en-us/about/media-center/blog/2023/avr-da-fan-state-condition-monitoring-demo)** – identifying early signs of mechanical stress.  
 - **[Motor Control AI/ML Predictive Maintenance Demonstration Application](https://www.microchip.com/en-us/tools-resources/reference-designs/motor-control-ai-ml-predictive-maintenance-demonstration-application-1)** – detecting imbalance, misalignment, or efficiency loss.  
 
 
